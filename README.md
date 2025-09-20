@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Miftachuddin Achmad</h1>
-- 📫 How to reach me **miftachuddin.achmad@mhs.unsoed.ac.id**
+<h1 align="center">I'm Miftachuddin Achmad</h1>
+- 📫 How to reach me miftachuddin.achmad@mhs.unsoed.ac.id
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
