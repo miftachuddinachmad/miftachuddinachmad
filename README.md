@@ -1,14 +1,12 @@
 Hi there 👋
 
 <h1 align="center">I'm Miftachuddin Achmad</h1>
-- 📫 How to reach me miftachuddin.achmad@mhs.unsoed.ac.id
-
-- 💫 About Me:
+📫 How to reach me miftachuddin.achmad@mhs.unsoed.ac.id
+💫 About Me:
 Sedang belajar di Universitas Jenderal Soedirman 
 
 ![](https://github-readme-stats.vercel.app/api?username=miftachuddinachmad&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=miftachuddinachmad&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miftachuddinachmad&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
