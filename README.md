@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Miftachuddin Achmad</h1>
+- 📫 How to reach me **miftachuddin.achmad@mhs.unsoed.ac.id**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <!--
 **miftachuddinachmad/miftachuddinachmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
